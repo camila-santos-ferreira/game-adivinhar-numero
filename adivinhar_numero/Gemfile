@@ -1,0 +1,6 @@
+source 'https://rubygems.org/'
+
+# move o cursor pelo terminal
+gem 'tty-cursor'
+
+gem 'tty-spinner'
